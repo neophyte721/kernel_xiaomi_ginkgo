@@ -361,7 +361,3 @@ config BOEFFLA_WL_BLOCKER
 		
 config CPU_PM
 	bool
-
-config DEDUCE_WAKEUP_REASONS
-	bool
-	default n
